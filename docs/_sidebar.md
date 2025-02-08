@@ -3,3 +3,4 @@
 * [Stable Diffusion](Stable_Diffusion)
 * [选择什么 GUI](选择什么GUI)
 * [*后续……*](后续)
+* [网络资源](网络资源)
