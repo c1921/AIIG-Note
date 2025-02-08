@@ -1,0 +1,32 @@
+# AI 生图有哪些选择
+
+- **Stable Diffusion**
+    - 开源，支持本地运行，生成速度快，图像质量高。
+- **DALL·E 3**
+    - 由OpenAI开发，能生成高质量图像，理解复杂提示。
+- **MidJourney**
+    - 擅长艺术风格图像，生成效果独特。
+- **DeepArt**
+    - 将照片转化为艺术风格图像，支持多种风格选择。
+- **Artbreeder**
+    - 通过混合图像生成新图像，支持人脸、风景等多种类型。
+- **Runway ML**
+    - 提供多种AI工具，支持图像生成、视频编辑等。
+- **NightCafe**
+    - 支持多种AI算法，生成艺术风格图像，操作简单。
+- **DeepDream Generator**
+    - 基于Google DeepDream，生成梦幻风格图像。
+- **GANBreeder**
+    - 通过GAN生成图像，支持图像混合。
+- **This Person Does Not Exist**
+    - 使用GAN生成逼真人脸图像。
+- **Wombo Dream**
+    - 根据文本提示生成艺术图像，操作简单。
+- **Craiyon（原DALL·E mini）**
+    - 免费在线工具，根据文本生成图像。
+- **Jasper Art**
+    - 由Jasper AI开发，根据文本生成高质量图像。
+- **Fotor AI Image Generator**
+    - 根据文本生成图像，支持多种风格。
+- **Lexica**
+    - 基于Stable Diffusion，生成高质量图像，支持多种风格。
